@@ -1,3 +1,6 @@
+src-git ddnsgo https://github.com/sirpdboy/luci-app-ddns-go
+src-git passwallpackages https://github.com/xiaorouji/openwrt-passwall-packages
+src-git passwall2 https://github.com/xiaorouji/openwrt-passwall2
 src-git packages https://github.com/coolsnowwolf/packages
 src-git luci https://github.com/coolsnowwolf/luci
 #src-git luci https://github.com/coolsnowwolf/luci.git;openwrt-23.05
